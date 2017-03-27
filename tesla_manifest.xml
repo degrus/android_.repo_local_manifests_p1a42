@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<project name="degrus/android_device_lenovo_p1a42"      	        path="device/lenovo/p1a42"			remote="github" revision="tesla" />
+	<project name="degrus/android_vendor_lenovo_p1a42"      	        path="vendor/lenovo/p1a42"			remote="github" revision="cm-14.1" />
+        <project name="degrus/android_kernel_lenovo_p1a42"       		path="kernel/lenovo/p1a42" 			remote="github" revision="cm-14.1" />
+      
+<project name="LineageOS/android_external_bson"               	                path="external/bson" 			        remote="github" revision="cm-14.1" />
+<project name="Lineageos/android_packages_resources_devicesettings"             path="packages/resources/devicesettings" 			remote="github" revision="cm-14.1" />
+
+
+</manifest>
